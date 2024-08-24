@@ -7,7 +7,6 @@
 
 <h2>IT Certifications</h2>
 
-- <b>CompTIA Security+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Cloud Essentials+</b>
 - <b>CompTIA IT Fundamentals+</b>
