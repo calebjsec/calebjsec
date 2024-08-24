@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="https://github.com/calebjsec">Army Veteran</a>, <a href="https://www.linkedin.com/in/calebjsec/">Cybersecurity student</a></h1>
+<h1>Hi, I'm Caleb! <br/><a href="https://github.com/calebjsec">Army Veteran</a>, <a href="https://www.linkedin.com/in/calebjsec/">Cyber Security Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
