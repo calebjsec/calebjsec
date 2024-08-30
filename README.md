@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Sentinel SIEM</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/calebjsec)
+- <b>VPN-Deployment with BDF XDP Technology by-Path Network</b>
+- [VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network]([https://github.com/calebjsec](https://github.com/calebjsec/VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network))
 
 <h2>IT Certifications</h2>
 
