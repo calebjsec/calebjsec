@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>VPN-Deployment with BDF XDP Technology by-Path Network</b>
-- [VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network]([https://github.com/calebjsec](https://github.com/calebjsec/VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network))
+- [VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network](https://github.com/calebjsec/VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network)
 
 <h2>IT Certifications</h2>
 
